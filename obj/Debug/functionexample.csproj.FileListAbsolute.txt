@@ -1,0 +1,7 @@
+C:\Users\ww\source\repos\functionexample\functionexample\bin\Debug\functionexample.exe.config
+C:\Users\ww\source\repos\functionexample\functionexample\bin\Debug\functionexample.exe
+C:\Users\ww\source\repos\functionexample\functionexample\bin\Debug\functionexample.pdb
+C:\Users\ww\source\repos\functionexample\functionexample\obj\Debug\functionexample.csprojResolveAssemblyReference.cache
+C:\Users\ww\source\repos\functionexample\functionexample\obj\Debug\functionexample.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\functionexample\functionexample\obj\Debug\functionexample.exe
+C:\Users\ww\source\repos\functionexample\functionexample\obj\Debug\functionexample.pdb
